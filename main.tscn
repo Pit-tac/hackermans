@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://clb26oven1fxm"]
+
+[ext_resource type="PackedScene" uid="uid://dkoq572g6i325" path="res://player/player.tscn" id="1_28m8h"]
+[ext_resource type="PackedScene" uid="uid://blyy67ljm3x00" path="res://enemyplac/enemyplac.tscn" id="2_48qfd"]
+
+[node name="main" type="Node2D"]
+
+[node name="player" parent="." instance=ExtResource("1_28m8h")]
+position = Vector2(873, 815)
+
+[node name="enemyplac" parent="." instance=ExtResource("2_48qfd")]
+position = Vector2(878, 129)
+
+[node name="enemyplac2" parent="." instance=ExtResource("2_48qfd")]
+position = Vector2(867, 228)
+
+[node name="enemyplac3" parent="." instance=ExtResource("2_48qfd")]
+position = Vector2(850, 315)
+
+[node name="enemyplac4" parent="." instance=ExtResource("2_48qfd")]
+position = Vector2(825, 399)
