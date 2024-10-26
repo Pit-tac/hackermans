@@ -1,9 +1,9 @@
-TO SEE THE CODE
+ <b>TO SEE THE CODE</b> </br>
 download game.zip
 
-TO PLAY THE GAME
-Download hackgameZIP.zip
-Download Hackgame.pck
-extract hackgameZIP.zip
-put Hackgame.pck into the extracted folder
-launch hackgame.exe
+<b>TO PLAY THE GAME </b> </br>
+Download hackgameZIP.zip </br>
+Download Hackgame.pck </br>
+extract hackgameZIP.zip </br>
+put Hackgame.pck into the extracted folder </br>
+launch hackgame.exe </br>
